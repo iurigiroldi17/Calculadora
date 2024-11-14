@@ -31,10 +31,10 @@
           </grid>
         </constraints>
         <properties>
-          <text value="C"/>
+          <text value="AC"/>
         </properties>
       </component>
-      <component id="2a723" class="javax.swing.JButton" binding="button6" default-binding="true">
+      <component id="2a723" class="javax.swing.JButton" binding="cButton" default-binding="true">
         <constraints>
           <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false">
             <minimum-size width="60" height="60"/>
@@ -43,10 +43,10 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <text value="C"/>
         </properties>
       </component>
-      <component id="cdb65" class="javax.swing.JButton" default-binding="true">
+      <component id="cdb65" class="javax.swing.JButton" binding="a7button">
         <constraints>
           <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false">
             <minimum-size width="60" height="60"/>
@@ -198,7 +198,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <text value="%"/>
         </properties>
       </component>
       <component id="96910" class="javax.swing.JButton" binding="button16" default-binding="true">
@@ -234,7 +234,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <text value="×"/>
         </properties>
       </component>
       <component id="91e3b" class="javax.swing.JButton" binding="button19" default-binding="true">
@@ -246,7 +246,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <text value="÷"/>
         </properties>
       </component>
       <component id="8e6c5" class="javax.swing.JButton" binding="button20" default-binding="true">
@@ -258,7 +258,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <text value="="/>
         </properties>
       </component>
     </children>
